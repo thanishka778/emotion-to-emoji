@@ -1,0 +1,64 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+#heading{
+  color: darkblue;
+  font-family: monospace;
+  font-variant: small-caps;
+  font-weight: bold;
+  width: 30%;
+  border-radius: 75px;
+}
+
+#label_webcam_view{
+  color: darkcyan;
+  background-color: white;
+  border-radius: 50px;
+  padding: 5;
+
+}
+
+#label_prediction_2{
+  color: darkcyan;
+  background-color: white;
+  border-radius: 50px;
+  padding: 5;
+}
+
+#label_prediction_1{
+  color: darkcyan;
+  background-color: white;
+  border-radius: 50px;
+  padding: 5;
+}
+
+#label_snapshot{
+  color: darkcyan;
+  background-color: white;
+  border-radius: 50px;
+  padding: 5;
+}
